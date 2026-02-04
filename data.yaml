@@ -1,0 +1,8 @@
+train: /root/ultralytics-main-regnet-crack/datasets/train/images
+val: /root/ultralytics-main-regnet-crack/datasets/val/images
+
+nc: 2
+
+names:
+- longitudinal_crack
+- transversal_crack
